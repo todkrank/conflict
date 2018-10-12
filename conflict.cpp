@@ -2,5 +2,6 @@
 
 Conflict::Conflict()
 {
+ //1st conflict
 
 }

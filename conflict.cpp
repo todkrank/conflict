@@ -3,6 +3,6 @@
 Conflict::Conflict()
 {
  //1st conflict
- //2nd conflict
+ //2nd abrakadabra - conflict
 
 }
